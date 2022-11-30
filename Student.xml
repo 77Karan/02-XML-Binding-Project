@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<student marks="1011">
+	<name>Ashok</name>
+	<id>11111</id>
+	<rank>5</rank>
+	<addrr justpin="123456">
+		<mycity>Banagalore</mycity>
+		<country>India</country>
+	</addrr>
+</student>
